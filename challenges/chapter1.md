@@ -1,5 +1,5 @@
 ---
-title: "example_python_challenges"
+title: "example_python_challenges'\"<b>"
 output: html_document
 
 --- type:MultipleChoiceChallenge key:115qFYuQ4pPlifqZze0QkDORLwVufanGIfC difficulty:1
